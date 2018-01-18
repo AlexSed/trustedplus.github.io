@@ -1,2 +1,2 @@
-# trusted.plus.github.io
+# trustedplus.github.io
 site
